@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is DA14-224A
+
+ Directory of C:\gitHub\Repo\Hello World
+
+06/25/2017  11:53 PM    <DIR>          .
+06/25/2017  11:53 PM    <DIR>          ..
+06/25/2017  11:19 PM            14,004 added doc.docx
+06/25/2017  11:53 PM                 0 testt.txt
+               2 File(s)         14,004 bytes
+               2 Dir(s)  64,241,922,048 bytes free
